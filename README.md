@@ -11,6 +11,7 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
   - [Math](#math)
   - [Medicine](#medicine)
   - [Finance](#finance)
+  - [Social Skills](#social-skills)
   - [Teacher Training](#teacher-training)
   - [Miscellaneous](#miscellaneous)
 
@@ -25,6 +26,7 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - [LLM as Evaluator](#llm-as-evaluator)
 
   - [Writing Evaluation](#writing-evaluation)
+  - [Math Evaluation](#math-evaluation)
 
 - [AIGC Detection in Education](#aigc-detection-in-education)
 
@@ -52,7 +54,9 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "Exploring How Multiple Levels of GPT-Generated Programming Hints Support or Disappoint Novices" [CHI 2024] [2024-04] [[paper]](https://arxiv.org/abs/2404.02213)
 
-- "AI-Tutoring in Software Engineering Education" [2024-03] [[paper]](https://arxiv.org/abs/2404.02548)
+- "AI-Tutoring in Software Engineering Education" [2024-04] [[paper]](https://arxiv.org/abs/2404.02548)
+
+- "Generating Feedback-Ladders for Logical Errors in Programming using Large Language Models" [2024-05] [[paper](https://arxiv.org/abs/2405.00302)]
 
 ### Writing
 
@@ -72,7 +76,13 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "Exploring the Role of Artificial Intelligence in Enhancing Academic Performance: A Case Study of ChatGPT" [2023-01] [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312358)
 
+### Social Skills
+
+- "Social Skill Training with Large Language Models" [2024-04] [[paper](https://arxiv.org/abs/2404.04204)]
+
 ### Teacher Training
+
+- "Using Large Language Models to Provide Explanatory Feedback to Human Tutors" [2023-06] [[paper](https://arxiv.org/abs/2306.15498)]
 
 - "GPTeach: Interactive TA Training with GPT-based Students" [L@S 2023] [2023-07] [[paper]](https://dl.acm.org/doi/abs/10.1145/3573051.3593393)
 
@@ -139,6 +149,20 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - "FABRIC: Automated Scoring and Feedback Generation for Essays" [2023-10] [[paper]](https://arxiv.org/abs/2310.05191)
 
 - "From Automation to Augmentation: Large Language Models Elevating Essay Scoring Landscape" [2024-01] [[paper]](https://arxiv.org/abs/2401.06431)
+
+### Math Evaluation
+
+- "Automatic Short Math Answer Grading via In-context Meta-learning" [2022-05] [[paper](https://arxiv.org/abs/2205.15219)]
+
+- "Algebra Error Classification with Large Language Models" [2023-05] [[paper](https://arxiv.org/abs/2305.06163)]
+
+- "Modeling and Analyzing Scorer Preferences in Short-Answer Math Questions" [2023-06] [[paper](https://arxiv.org/abs/2306.00791)]
+
+- "Automatically Detecting Incoherent Written Math Answers of Fourth-Graders" [2023-07] [Systems 2023] [[paper](https://www.mdpi.com/2079-8954/11/7/353)]
+
+- "GPT-4 in Education: Evaluating Aptness, Reliability, and Loss of Coherence in Solving Calculus Problems and Grading Submissions" [2024-05] [[paper](https://link.springer.com/article/10.1007/s40593-024-00403-3)]
+
+- "LLMs can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought" [2024-05] [[paper](https://arxiv.org/abs/2405.06705)]
 
 ## AIGC Detection in Education
 
