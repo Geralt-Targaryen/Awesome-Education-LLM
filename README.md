@@ -58,6 +58,8 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "Generating Feedback-Ladders for Logical Errors in Programming using Large Language Models" [2024-05] [[paper](https://arxiv.org/abs/2405.00302)]
 
+- "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers" [ICER 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.17739)]
+
 ### Writing
 
 - "ChatGPT User Experience: Implications for Education" [2022-12] [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312418)
@@ -71,6 +73,12 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - "How Does ChatGPT Perform on the Medical Licensing Exams? The Implications of Large Language Models for Medical Education and Knowledge Assessment" [2022-12] [[paper]](https://www.medrxiv.org/content/10.1101/2022.12.23.22283901v1)
 
 - "Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models" [PLOS Digit Health] [2023-02] [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198)
+
+- "LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation" [2023-05] [[paper](https://arxiv.org/abs/2305.13614)]
+
+- "Simulation-Based Education in the Artificial Intelligence Era" [2023-06] [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10368461/)]
+
+- "PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals" [2024-05] [[paper](https://arxiv.org/abs/2405.19660)]
 
 ### Finance
 
@@ -100,11 +108,15 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Quality Reading Quiz Questions" [CHI 2023] [2023-04] [[paper]](https://dl.acm.org/doi/10.1145/3544548.3580957)
 
+- "Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning" [EDM 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.20079)]
+
 ### Computer Science
 
 - "Automatic Generation of Programming Exercises and Code Explanations using Large Language Models" [ICER 2022] [2022-06] [[paper]](https://arxiv.org/abs/2206.11861)
 
 - "Quiz Maker: Automatic Quiz Generation from Text Using NLP" [FTNCT] [2022-11] [[paper]](https://link.springer.com/chapter/10.1007/978-981-19-5037-7_37)
+
+- "A Survey Study on the State of the Art of Programming Exercise Generation using Large Language Models" [CSEE&T 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.20183)]
 
 ### Math
 
@@ -119,6 +131,8 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - "Towards Human-Like Educational Question Generation with Large Language Models" [AIED 2022] [2022-07] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_13)
 
 - "Scalable Educational Question Generation with Pre-trained Language Models" [AIED 2023] [2023-05] [[paper]](https://arxiv.org/abs/2305.07871)
+
+- "Exploring the Capabilities of Prompted Large Language Models in Educational and Assessment Applications" [EDM 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.11579)]
 
 ## LLM as Evaluator
 
