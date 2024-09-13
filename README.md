@@ -27,8 +27,15 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
   - [Writing Evaluation](#writing-evaluation)
   - [Math Evaluation](#math-evaluation)
+  - [Programming Evaluation](#programming-evaluation)
+  - [Other Subjects](#other-subjects)
 
 - [AIGC Detection in Education](#aigc-detection-in-education)
+
+- [Education-related LLM Benchmarks](#education-related-llm-benchmarks)
+
+  - [Programming](#programming)
+  - [Others](#others)
 
 ## LLM-Assisted Teaching
 
@@ -56,9 +63,17 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "AI-Tutoring in Software Engineering Education" [2024-04] [[paper]](https://arxiv.org/abs/2404.02548)
 
-- "Generating Feedback-Ladders for Logical Errors in Programming using Large Language Models" [2024-05] [[paper](https://arxiv.org/abs/2405.00302)]
+- "Enhancing Educational Efficiency: Generative AI Chatbots and DevOps in Education 4.0" [2024-04] [[paper](https://arxiv.org/abs/2406.15382)]
+
+- "CS1-LLM: Integrating LLMs into CS1 Instruction" [2024-04] [[paper](https://arxiv.org/abs/2406.15379)]
 
 - "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers" [ICER 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.17739)]
+
+- "Insights from Social Shaping Theory: The Appropriation of Large Language Models in an Undergraduate Programming Course" [2024-06] [[paper](https://arxiv.org/abs/2406.06451)]
+
+- "Estimating Difficulty Levels of Programming Problems with Pre-trained Model" [2024-06] [[paper](https://arxiv.org/abs/2406.08828)]
+
+- "Enhancing Computer Programming Education with LLMs: A Study on Effective Prompt Engineering for Python Code Generation" [2024-07] [[paper](https://arxiv.org/abs/2407.05437)]
 
 ### Writing
 
@@ -98,6 +113,12 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "The AI Teacher Test: Measuring the Pedagogical Ability of Blender and GPT-3 in Educational Dialogues" [EDM 2022] [2022-05] [[paper]](https://arxiv.org/abs/2205.07540)
 
+- "A Systematic Review of Generative AI for Teaching and Learning Practice" [2024-06] [[paper](https://arxiv.org/abs/2406.09520)]
+
+- "Simulating Classroom Education with LLM-Empowered Agents" [2024-06] [[paper](https://arxiv.org/abs/2406.19226)]
+
+- "Educational Personalized Learning Path Planning with Large Language Models" [2024-07] [[paper](https://arxiv.org/abs/2407.11773)]
+
 ## LLM for Exercise Generation
 
 ### Language
@@ -110,6 +131,8 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning" [EDM 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.20079)]
 
+- "Generating Educational Materials with Different Levels of Readability using LLMs" [2024-06] [[paper](https://arxiv.org/abs/2406.12787)]
+
 ### Computer Science
 
 - "Automatic Generation of Programming Exercises and Code Explanations using Large Language Models" [ICER 2022] [2022-06] [[paper]](https://arxiv.org/abs/2206.11861)
@@ -118,13 +141,19 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "A Survey Study on the State of the Art of Programming Exercise Generation using Large Language Models" [CSEE&T 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.20183)]
 
+- "Evaluating Contextually Personalized Programming Exercises Created with Generative AI" [2024-07] [[paper](https://arxiv.org/abs/2407.11994)]
+
 ### Math
 
 - "A Multi-language Platform for Generating Algebraic Mathematical Word Problems" [ICIIS 2019] [2019-11] [[paper]](https://arxiv.org/abs/1912.01110)
 
+- "Generative AI for Enhancing Active Learning in Education: A Comparative Study of GPT-3.5 and GPT-4 in Crafting Customized Test Questions" [2024-06] [[paper](https://arxiv.org/abs/2406.13903)]
+
 ### Medicine
 
 - "CliniQG4QA: Generating Diverse Questions for Domain Adaptation of Clinical Question Answering" [BIBM 2021] [2020-10] [[paper]](https://arxiv.org/abs/2010.16021)
+
+- "LLM-Generated Multiple Choice Practice Quizzes for Pre-Clinical Medical Students; Use and Validity" [2024-05] [[paper](https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.376)]
 
 ### Other Disciplines
 
@@ -133,6 +162,8 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - "Scalable Educational Question Generation with Pre-trained Language Models" [AIED 2023] [2023-05] [[paper]](https://arxiv.org/abs/2305.07871)
 
 - "Exploring the Capabilities of Prompted Large Language Models in Educational and Assessment Applications" [EDM 2024] [2024-05] [[paper](https://arxiv.org/abs/2405.11579)]
+
+- "How Effective is GPT-4 Turbo in Generating School-Level Questions from Textbooks Based on Bloom's Revised Taxonomy?" [2024-06] [[paper](https://arxiv.org/abs/2406.15211)]
 
 ## LLM as Evaluator
 
@@ -164,6 +195,8 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "From Automation to Augmentation: Large Language Models Elevating Essay Scoring Landscape" [2024-01] [[paper]](https://arxiv.org/abs/2401.06431)
 
+- "Can Language Models Evaluate Human Written Text? Case Study on Korean Student Writing for Education" [2024-07] [[paper](https://www.arxiv.org/abs/2407.17022)]
+
 ### Math Evaluation
 
 - "Automatic Short Math Answer Grading via In-context Meta-learning" [2022-05] [[paper](https://arxiv.org/abs/2205.15219)]
@@ -177,6 +210,20 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - "GPT-4 in Education: Evaluating Aptness, Reliability, and Loss of Coherence in Solving Calculus Problems and Grading Submissions" [2024-05] [[paper](https://link.springer.com/article/10.1007/s40593-024-00403-3)]
 
 - "LLMs can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought" [2024-05] [[paper](https://arxiv.org/abs/2405.06705)]
+
+### Programming Evaluation
+
+- "Generating Feedback-Ladders for Logical Errors in Programming using Large Language Models" [2024-05] [[paper](https://arxiv.org/abs/2405.00302)]
+
+- "Evaluating Language Models for Generating and Judging Programming Feedback" [2024-07] [[paper](https://arxiv.org/abs/2407.04873)]
+
+### Other Subjects
+
+- [**Astronomy**] "Grading Massive Open Online Courses Using Large Language Models" [2024-06] [[paper](https://arxiv.org/abs/2406.11102)]
+
+- [**AI**] "Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course" [2024-07] [[paper](https://arxiv.org/abs/2407.05216)]
+
+- [**Pronunciation**] "Pronunciation Assessment with Multi-modal Large Language Models" [2024-07] [[paper](https://arxiv.org/abs/2407.09209)]
 
 ## AIGC Detection in Education
 
@@ -195,3 +242,19 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 - "Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated Student Essay Detection" [EMNLP 2023] [2023-12] [[paper]](https://arxiv.org/abs/2402.00412)
 
 - "Do teachers spot AI? Evaluating the detectability of AI-generated texts among student essays" [Computers and Education: AI] [2024-01] [[paper]](https://www.sciencedirect.com/science/article/pii/S2666920X24000109)
+
+- "Delving into ChatGPT usage in academic writing through excess vocabulary" [2024-06] [[paper](https://arxiv.org/abs/2406.07016)]
+
+## Education-related LLM Benchmarks
+
+### Programming
+
+- "Benchmarking Educational Program Repair" [2024-05] [[paper](https://arxiv.org/abs/2405.05347)]
+
+- "Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation" [2024-06] [[paper](https://arxiv.org/abs/2406.05053)]
+
+- "CREF: An LLM-based Conversational Software Repair Framework for Programming Tutors" [2024-06] [[paper](https://arxiv.org/abs/2406.13972)]
+
+### Others
+
+- "EduNLP: Towards a Unified and Modularized Library for Educational Resources" [2024-06] [[paper](https://arxiv.org/abs/2406.01276)]
