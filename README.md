@@ -117,6 +117,8 @@ Large Language Models (LLMs) are increasingly prevalent in every aspect of our l
 
 - "Simulating Classroom Education with LLM-Empowered Agents" [2024-06] [[paper](https://arxiv.org/abs/2406.19226)]
 
+- "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation" [ICML 2026] [2026-06] [[paper](https://arxiv.org/abs/2606.07948)] [[project](https://edumirror.net/)]
+
 - "Educational Personalized Learning Path Planning with Large Language Models" [2024-07] [[paper](https://arxiv.org/abs/2407.11773)]
 
 ## LLM for Exercise Generation
